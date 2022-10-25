@@ -1,5 +1,5 @@
 
-<h4>👋 안녕하세요. 저는 자바 백엔드 개발자가 되고 싶은 김민준입니다.</h4>
+<h4>👋 안녕하세요. 저는 주니어 백엔드 개발자 김민준입니다.</h4>
 
 <div align=center><h4>📚 STACKS</h4></div>
 <div sytle="float:left" align="center">
