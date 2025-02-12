@@ -1,6 +1,4 @@
 
-<h4>👋 안녕하세요. 저는 주니어 백엔드 개발자 김민준입니다.</h4>
-
 <div align=center><h4>📚 STACKS</h4></div>
 <div sytle="float:left" align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
